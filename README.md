@@ -1,2 +1,1 @@
-# hello-world
-This is my repository
+Я создал свой личный новый репозиторий.
